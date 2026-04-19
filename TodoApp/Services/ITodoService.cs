@@ -1,9 +1,11 @@
-﻿using TodoApp.Models.Request;
+﻿using TodoApp.Models.Database;
+using TodoApp.Models.Request;
 
 namespace TodoApp.Services
 {
     public interface ITodoService
     {
-        public Task<CreateTodoRequest> CreateTodo(CreateTodoRequest bodyDatas);
+        Task<List<TodoModel>> GetTodos();
+        Task<bool> CreateTodo(CreateTodoRequest bodyDatas);
     }
 }

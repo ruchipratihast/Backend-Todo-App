@@ -16,21 +16,23 @@ namespace TodoApp.Controllers
         }
 
         [HttpGet]
-        public IActionResult GetTodos()
+        public async Task<IActionResult> GetTodos()
         {
-            var todos = new List<string>
-            {
-                "Buy groceries",
-                "Walk the dog",
-                "Finish homework"
-            };
-            return Ok(todos);
+            var data = await _todoService.GetTodos();
+            return Ok(data);
         }
         [HttpPost]
-        public IActionResult Create([FromBody] CreateTodoRequest request)
+        public async Task<IActionResult> Create([FromBody] CreateTodoRequest request)
         {
-            var result = _todoService.CreateTodo(request);
-            return Ok(result);
+            var result = await _todoService.CreateTodo(request);
+            if (result)
+            {
+                return Ok(new { Message = "Todo created successfully" });
+            }
+            else
+            {
+                return BadRequest(new { Message = "Failed to create todo" });
+            }
         }
     }
 }
