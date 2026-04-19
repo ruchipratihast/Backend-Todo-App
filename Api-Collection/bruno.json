@@ -1,0 +1,9 @@
+{
+  "version": "1",
+  "name": "Todos-App",
+  "type": "collection",
+  "ignore": [
+    "node_modules",
+    ".git"
+  ]
+}

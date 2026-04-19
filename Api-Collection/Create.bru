@@ -1,0 +1,19 @@
+meta {
+  name: Create
+  type: http
+  seq: 3
+}
+
+post {
+  url: https://localhost:44308/api/todos
+  body: json
+  auth: none
+}
+
+body:json {
+  {
+    "taskName": "Create 5 project in this week",
+    "isCompleted": false,
+    "dueDate": "2026-04-18T23:33:26.601Z"
+  }
+}

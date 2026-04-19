@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Ruchi\\Documents\\personal-work\\cs-learning\\TodoApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3924DD82-458F-4DD7-8A15-09A2B7727E2C}|TodoApp\\TodoApp.csproj|c:\\users\\ruchi\\documents\\personal-work\\cs-learning\\todoapp\\todoapp\\controllers\\todoappcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3924DD82-458F-4DD7-8A15-09A2B7727E2C}|TodoApp\\TodoApp.csproj|solutionrelative:todoapp\\controllers\\todoappcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3924DD82-458F-4DD7-8A15-09A2B7727E2C}|TodoApp\\TodoApp.csproj|c:\\users\\ruchi\\documents\\personal-work\\cs-learning\\todoapp\\todoapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3924DD82-458F-4DD7-8A15-09A2B7727E2C}|TodoApp\\TodoApp.csproj|solutionrelative:todoapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3924DD82-458F-4DD7-8A15-09A2B7727E2C}|TodoApp\\TodoApp.csproj|c:\\users\\ruchi\\documents\\personal-work\\cs-learning\\todoapp\\todoapp\\services\\todoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3924DD82-458F-4DD7-8A15-09A2B7727E2C}|TodoApp\\TodoApp.csproj|solutionrelative:todoapp\\services\\todoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3924DD82-458F-4DD7-8A15-09A2B7727E2C}|TodoApp\\TodoApp.csproj|c:\\users\\ruchi\\documents\\personal-work\\cs-learning\\todoapp\\todoapp\\services\\itodoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3924DD82-458F-4DD7-8A15-09A2B7727E2C}|TodoApp\\TodoApp.csproj|solutionrelative:todoapp\\services\\itodoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3924DD82-458F-4DD7-8A15-09A2B7727E2C}|TodoApp\\TodoApp.csproj|c:\\users\\ruchi\\documents\\personal-work\\cs-learning\\todoapp\\todoapp\\validators\\createtodovalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3924DD82-458F-4DD7-8A15-09A2B7727E2C}|TodoApp\\TodoApp.csproj|solutionrelative:todoapp\\validators\\createtodovalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3924DD82-458F-4DD7-8A15-09A2B7727E2C}|TodoApp\\TodoApp.csproj|c:\\users\\ruchi\\documents\\personal-work\\cs-learning\\todoapp\\todoapp\\models\\request\\createtodorequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3924DD82-458F-4DD7-8A15-09A2B7727E2C}|TodoApp\\TodoApp.csproj|solutionrelative:todoapp\\models\\request\\createtodorequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TodoService.cs",
+              "DocumentMoniker": "C:\\Users\\Ruchi\\Documents\\personal-work\\cs-learning\\TodoApp\\TodoApp\\Services\\TodoService.cs",
+              "RelativeDocumentMoniker": "TodoApp\\Services\\TodoService.cs",
+              "ToolTip": "C:\\Users\\Ruchi\\Documents\\personal-work\\cs-learning\\TodoApp\\TodoApp\\Services\\TodoService.cs",
+              "RelativeToolTip": "TodoApp\\Services\\TodoService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-18T17:49:26.018Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ITodoService.cs",
+              "DocumentMoniker": "C:\\Users\\Ruchi\\Documents\\personal-work\\cs-learning\\TodoApp\\TodoApp\\Services\\ITodoService.cs",
+              "RelativeDocumentMoniker": "TodoApp\\Services\\ITodoService.cs",
+              "ToolTip": "C:\\Users\\Ruchi\\Documents\\personal-work\\cs-learning\\TodoApp\\TodoApp\\Services\\ITodoService.cs",
+              "RelativeToolTip": "TodoApp\\Services\\ITodoService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-18T17:45:27.045Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TodoAppController.cs",
+              "DocumentMoniker": "C:\\Users\\Ruchi\\Documents\\personal-work\\cs-learning\\TodoApp\\TodoApp\\Controllers\\TodoAppController.cs",
+              "RelativeDocumentMoniker": "TodoApp\\Controllers\\TodoAppController.cs",
+              "ToolTip": "C:\\Users\\Ruchi\\Documents\\personal-work\\cs-learning\\TodoApp\\TodoApp\\Controllers\\TodoAppController.cs",
+              "RelativeToolTip": "TodoApp\\Controllers\\TodoAppController.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwCQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-18T15:27:33.805Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CreateTodoValidator.cs",
+              "DocumentMoniker": "C:\\Users\\Ruchi\\Documents\\personal-work\\cs-learning\\TodoApp\\TodoApp\\Validators\\CreateTodoValidator.cs",
+              "RelativeDocumentMoniker": "TodoApp\\Validators\\CreateTodoValidator.cs",
+              "ToolTip": "C:\\Users\\Ruchi\\Documents\\personal-work\\cs-learning\\TodoApp\\TodoApp\\Validators\\CreateTodoValidator.cs",
+              "RelativeToolTip": "TodoApp\\Validators\\CreateTodoValidator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-18T16:27:20.863Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Ruchi\\Documents\\personal-work\\cs-learning\\TodoApp\\TodoApp\\Program.cs",
+              "RelativeDocumentMoniker": "TodoApp\\Program.cs",
+              "ToolTip": "C:\\Users\\Ruchi\\Documents\\personal-work\\cs-learning\\TodoApp\\TodoApp\\Program.cs",
+              "RelativeToolTip": "TodoApp\\Program.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-18T15:25:30.851Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CreateTodoRequest.cs",
+              "DocumentMoniker": "C:\\Users\\Ruchi\\Documents\\personal-work\\cs-learning\\TodoApp\\TodoApp\\Models\\Request\\CreateTodoRequest.cs",
+              "RelativeDocumentMoniker": "TodoApp\\Models\\Request\\CreateTodoRequest.cs",
+              "ToolTip": "C:\\Users\\Ruchi\\Documents\\personal-work\\cs-learning\\TodoApp\\TodoApp\\Models\\Request\\CreateTodoRequest.cs",
+              "RelativeToolTip": "TodoApp\\Models\\Request\\CreateTodoRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAIAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-18T16:12:19.969Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
